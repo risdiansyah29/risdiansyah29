@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi, i'am content creators and web development.
+I am a web developer with a strong passion for technology and digital creativity. I enjoy building web applications, exploring new technologies, and combining design with functionality to create meaningful solutions.
+
+With experience in technologies such as JavaScript, Python, and cloud platforms, I continuously learn and improve my skills to deliver innovative and impactful projects. I also actively create content to share knowledge and inspire others in the tech space.
 
 
 ## 🌐 Socials:
